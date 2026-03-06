@@ -7,7 +7,7 @@ indicator of disease prevalence. For instance, ([Sasaki et al., 2009](#sasaki200
 found that tracking disease-specific school absenteeism data can
 effectively forecast the outbreaks of influenza in Japan, while
 non-disease-specific school absenteeism data has shown limited
-correlation with influenza activity in the US (Egger et al., 2012). In
+correlation with influenza activity in the US ([Egger et al., 2012](#egger2012)). In
 this study, we analyze the non-disease-specific school absenteeism data
 in Hong Kong spanning from 2008 to 2020 to evaluate its predictive
 potential for influenza cases, including both type A and B strains.
@@ -198,7 +198,7 @@ employing a dropout rate of 0.3.
 
 ## TFT
 
-Temporal Fusion Transformer (TFT), proposed by (Lim et al., 2019), aims
+Temporal Fusion Transformer (TFT), proposed by ([Lim et al., 2019](#lim2019)), aims
 to improve the interpretability of multi-horizon and multivariate time
 series forecasting. It's an attention-based model that evaluates the
 influence of each covariate at every lag.
@@ -670,13 +670,12 @@ school absenteeism data in LSTM and TFT frameworks requires further
 exploration.
 
 # References
-
-Egger, J. R., Hoen, A. G., Brownstein, J. S., Buckeridge, D. L., &
+* <a id="egger2012"></a>Egger, J. R., Hoen, A. G., Brownstein, J. S., Buckeridge, D. L., &
 Konty, K. J. (2012). Usefulness of School Absenteeism Data for
 Predicting Influenza Outbreaks, United States. *Emerg. Infect. Dis.*,
 *18*(8), 1375–1377. https://doi.org/10.3201/eid1808.111538
 
-Lim, B., Arik, S. O., Loeff, N., & Pfister, T. (2019). Temporal Fusion
+* <a id="lim2019"></a>Lim, B., Arik, S. O., Loeff, N., & Pfister, T. (2019). Temporal Fusion
 Transformers for Interpretable Multi-horizon Time Series Forecasting.
 *ArXiv*. https://doi.org/10.48550/arXiv.1912.09363
 
