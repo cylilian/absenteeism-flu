@@ -3,7 +3,7 @@
 Due to the crucial impact of population density and interaction patterns
 on the transmission of certain infectious diseases, we propose the
 hypothesis that the changes in school absenteeism could serve as the
-indicator of disease prevalence. For instance, (Sasaki et al., 2009) has
+indicator of disease prevalence. For instance, ([Sasaki et al., 2009](#sasaki2009)) has
 found that tracking disease-specific school absenteeism data can
 effectively forecast the outbreaks of influenza in Japan, while
 non-disease-specific school absenteeism data has shown limited
@@ -680,7 +680,7 @@ Lim, B., Arik, S. O., Loeff, N., & Pfister, T. (2019). Temporal Fusion
 Transformers for Interpretable Multi-horizon Time Series Forecasting.
 *ArXiv*. https://doi.org/10.48550/arXiv.1912.09363
 
-Sasaki, A., Hoen, A. G., Ozonoff, A., Suzuki, H., Tanabe, N., Seki, N.,
+* <a id="sasaki2009"></a>Sasaki, A., Hoen, A. G., Ozonoff, A., Suzuki, H., Tanabe, N., Seki, N.,
 Saito, R., & Brownstein, J. S. (2009). Evidence-based Tool for
 Triggering School Closures during Influenza Outbreaks, Japan. *Emerg.
 Infect. Dis.*, *15*(11), 1841. https://doi.org/10.3201/eid1511.090798
